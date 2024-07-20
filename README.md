@@ -14,7 +14,7 @@ First, clone the repository to your local machine:
 git clone https://github.com/OfekCP/weatherAppFintek.git
 
 Change into the project directory:
-cd weatherApp
+cd weatherAppFintek
 
 Change into the client directory:
 cd client
