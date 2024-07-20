@@ -11,7 +11,7 @@ npm (comes with Node.js)
 Clone the Repository
 
 First, clone the repository to your local machine:
-git clone https://github.com/OfekCP/weatherApp.git
+git clone https://github.com/OfekCP/weatherAppFintek.git
 
 Change into the project directory:
 cd weatherApp
