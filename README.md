@@ -30,10 +30,11 @@ npm install
 
 Activate the server by running:
 node server.js
+
 The server should now be running and listening for requests.
 
 create another bash terminal:
-cd weatherApp/client
+cd weatherAppFintek/client
 
 Start the client application:
 npm run dev
