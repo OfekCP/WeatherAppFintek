@@ -1,4 +1,5 @@
 Weather App
+
 Welcome to the Weather App repository! This project consists of a client and a backend server. Follow the steps below to set up and run the application locally.
 
 //Prerequisites
